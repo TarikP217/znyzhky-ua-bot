@@ -1,1 +1,0 @@
-# znyzhky-ua-bot
