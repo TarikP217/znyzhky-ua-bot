@@ -1,6 +1,0 @@
-
-services:
-  - type: cron
-    name: znyzhky-bot
-    schedule: "0 8 * * *"
-    command: "python main.py"
